@@ -92,6 +92,6 @@ int main()
 	T.addNode(10);
 	T.addNode(1);
 	T.traversal();
-	// thêm linh tinh
+	// thêm linh tinh abc
 	return 0;
 }
