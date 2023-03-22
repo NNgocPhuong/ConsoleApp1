@@ -84,6 +84,7 @@ private:
 			std :: cout << "Khong co node do trong cay";
 		}
 	}
+	// ádadffwef
 	bool tim_Node(Node* a, int gia_tri)
 	{
 		if (a == NULL)
