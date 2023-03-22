@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Xin chao Thinh");
             // he sờ lô
+            //alo alo
         }
     }
 }
