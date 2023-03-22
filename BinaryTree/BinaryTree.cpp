@@ -90,7 +90,7 @@ int main()
 	T.addNode(2);
 	T.addNode(5);
 	T.addNode(10);
-	T.addNode(1);
+	
 	T.traversal();
 
 	return 0;
